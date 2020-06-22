@@ -365,8 +365,8 @@ var tests = []struct {
 			"aa\t\u672c\u672c\u672c\tcccc\tddddd\n" +
 			"aaa\tbbbb\n",
 
-		"本.......b.......c\n" +
-			"aa......本本本.....cccc....ddddd\n" +
+		"本......b.......c\n" +
+			"aa......本本本..cccc....ddddd\n" +
 			"aaa.....bbbb\n",
 	},
 
