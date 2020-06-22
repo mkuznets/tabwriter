@@ -10,6 +10,7 @@ import (
 	"io"
 	"io/ioutil"
 	"testing"
+
 	. "mkuznets.com/go/tabwriter"
 )
 
